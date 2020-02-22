@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaNiz5\tomcMatijaNiz5\bin\Debug\tomcMatijaNiz5.exe.config
+C:\Users\Matija\source\repos\tomcMatijaNiz5\tomcMatijaNiz5\bin\Debug\tomcMatijaNiz5.exe
+C:\Users\Matija\source\repos\tomcMatijaNiz5\tomcMatijaNiz5\bin\Debug\tomcMatijaNiz5.pdb
+C:\Users\Matija\source\repos\tomcMatijaNiz5\tomcMatijaNiz5\obj\Debug\tomcMatijaNiz5.exe
+C:\Users\Matija\source\repos\tomcMatijaNiz5\tomcMatijaNiz5\obj\Debug\tomcMatijaNiz5.pdb
